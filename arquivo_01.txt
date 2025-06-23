@@ -1,2 +1,5 @@
-mds, que
+<<<<<<< HEAD
+mds! que
 doideira
+=======
+
