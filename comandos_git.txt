@@ -6,6 +6,7 @@ git commit -m, "msg" -> faz commit do que estava para ser commitado
 git log -> Mostra todo o histórico de commit
 
 Fluxo de Trabalho
+
 1- Alo
 2- Oi
 3-
